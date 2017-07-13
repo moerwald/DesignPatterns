@@ -1,5 +1,8 @@
 ﻿using NUnit.Framework;
 using FluentAssertions;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
 /// <summary>
 /// This file contains an example of a fluent person builder facade.
